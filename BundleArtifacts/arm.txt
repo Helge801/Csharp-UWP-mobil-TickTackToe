@@ -1,0 +1,2 @@
+MainPackage=c:\users\helge801\documents\visual studio 2015\Projects\TickTackToe\TickTackToe\bin\ARM\Release\TickTackToe_1.0.1.0_ARM.appx
+SymbolPackage=c:\users\helge801\documents\visual studio 2015\Projects\TickTackToe\TickTackToe\AppPackages\TickTackToe_1.0.1.0_Test\TickTackToe_1.0.1.0_ARM.appxsym

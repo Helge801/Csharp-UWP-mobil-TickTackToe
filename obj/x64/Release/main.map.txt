@@ -1,0 +1,17 @@
+[ResourceMetadata]
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-en-us"
+"ResourceDimensions"		"language-en-US"
+
+[Files]
+"c:\users\helge801\documents\visual studio 2015\Projects\TickTackToe\TickTackToe\obj\x64\Release\split.pri"			"resources.pri"
+"c:\users\helge801\documents\visual studio 2015\Projects\TickTackToe\TickTackToe\obj\x64\Release\PackageLayout\TickTackToe.exe"			"TickTackToe.exe"
+"c:\users\helge801\documents\visual studio 2015\Projects\TickTackToe\TickTackToe\obj\x64\Release\PackageLayout\TickTackToe.dll"			"TickTackToe.dll"
+"c:\users\helge801\documents\visual studio 2015\Projects\TickTackToe\TickTackToe\obj\x64\Release\PackageLayout\ClrCompression.dll"			"ClrCompression.dll"
+"c:\users\helge801\documents\visual studio 2015\Projects\TickTackToe\TickTackToe\obj\x64\Release\PackageLayout\Assets\Wide310x150Logo.scale-200.png"			"Assets\Wide310x150Logo.scale-200.png"
+"c:\users\helge801\documents\visual studio 2015\Projects\TickTackToe\TickTackToe\obj\x64\Release\PackageLayout\Assets\StoreLogo.png"			"Assets\StoreLogo.png"
+"c:\users\helge801\documents\visual studio 2015\Projects\TickTackToe\TickTackToe\obj\x64\Release\PackageLayout\Assets\Square44x44Logo.targetsize-24_altform-unplated.png"			"Assets\Square44x44Logo.targetsize-24_altform-unplated.png"
+"c:\users\helge801\documents\visual studio 2015\Projects\TickTackToe\TickTackToe\obj\x64\Release\PackageLayout\Assets\Square44x44Logo.scale-200.png"			"Assets\Square44x44Logo.scale-200.png"
+"c:\users\helge801\documents\visual studio 2015\Projects\TickTackToe\TickTackToe\obj\x64\Release\PackageLayout\Assets\Square150x150Logo.scale-200.png"			"Assets\Square150x150Logo.scale-200.png"
+"c:\users\helge801\documents\visual studio 2015\Projects\TickTackToe\TickTackToe\obj\x64\Release\PackageLayout\Assets\SplashScreen.scale-200.png"			"Assets\SplashScreen.scale-200.png"
+"c:\users\helge801\documents\visual studio 2015\Projects\TickTackToe\TickTackToe\obj\x64\Release\PackageLayout\Assets\LockScreenLogo.scale-200.png"			"Assets\LockScreenLogo.scale-200.png"
